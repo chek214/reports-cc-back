@@ -1,0 +1,135 @@
+{"level":"INFO","message":"[3:55:22.461 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:55:22.532 PM]: Creating Connection[id: e16cc3ed-143d-487e-979b-6a7feb1452d8] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[3:55:22.533 PM]: Connection[id: e16cc3ed-143d-487e-979b-6a7feb1452d8] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:55:22.533 PM]: Connection[id: e16cc3ed-143d-487e-979b-6a7feb1452d8] - connection object created successfully."}
+{"level":"INFO","message":"[3:55:22.533 PM]: Connection[id: e16cc3ed-143d-487e-979b-6a7feb1452d8] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:55:22.534 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:55:22.543 PM]: No client config detected."}
+{"level":"INFO","message":"[3:55:22.543 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:55:22.543 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:55:22.544 PM]: Connection[id: e16cc3ed-143d-487e-979b-6a7feb1452d8] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[3:55:23.625 PM]: Connection[id: e16cc3ed-143d-487e-979b-6a7feb1452d8] - connection established successfully after 1091.62 milliseconds"}
+{"level":"INFO","message":"[3:56:11.412 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:56:11.420 PM]: Creating Connection[id: 0fcd57d2-7f92-494f-8c46-d5f9cd4bbf40] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[3:56:11.420 PM]: Connection[id: 0fcd57d2-7f92-494f-8c46-d5f9cd4bbf40] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:56:11.421 PM]: Connection[id: 0fcd57d2-7f92-494f-8c46-d5f9cd4bbf40] - connection object created successfully."}
+{"level":"INFO","message":"[3:56:11.421 PM]: Connection[id: 0fcd57d2-7f92-494f-8c46-d5f9cd4bbf40] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:56:11.421 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:56:11.427 PM]: No client config detected."}
+{"level":"INFO","message":"[3:56:11.427 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:56:11.427 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:56:11.428 PM]: Connection[id: 0fcd57d2-7f92-494f-8c46-d5f9cd4bbf40] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[3:56:12.218 PM]: Connection[id: 0fcd57d2-7f92-494f-8c46-d5f9cd4bbf40] - connection established successfully after 797.2 milliseconds"}
+{"level":"INFO","message":"[3:56:44.339 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:56:44.346 PM]: Creating Connection[id: 886a3875-70c9-47c7-ab89-2ba17abca3ff] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[3:56:44.347 PM]: Connection[id: 886a3875-70c9-47c7-ab89-2ba17abca3ff] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:56:44.347 PM]: Connection[id: 886a3875-70c9-47c7-ab89-2ba17abca3ff] - connection object created successfully."}
+{"level":"INFO","message":"[3:56:44.347 PM]: Connection[id: 886a3875-70c9-47c7-ab89-2ba17abca3ff] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:56:44.348 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:56:44.353 PM]: No client config detected."}
+{"level":"INFO","message":"[3:56:44.354 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:56:44.354 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:56:44.354 PM]: Connection[id: 886a3875-70c9-47c7-ab89-2ba17abca3ff] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[3:56:45.228 PM]: Connection[id: 886a3875-70c9-47c7-ab89-2ba17abca3ff] - connection established successfully after 880.74 milliseconds"}
+{"level":"INFO","message":"[4:05:25.294 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:05:25.302 PM]: Creating Connection[id: 9f277c4e-e139-497d-931d-2c6b7c061cb8] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[4:05:25.302 PM]: Connection[id: 9f277c4e-e139-497d-931d-2c6b7c061cb8] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:05:25.303 PM]: Connection[id: 9f277c4e-e139-497d-931d-2c6b7c061cb8] - connection object created successfully."}
+{"level":"INFO","message":"[4:05:25.303 PM]: Connection[id: 9f277c4e-e139-497d-931d-2c6b7c061cb8] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:25.303 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:05:25.309 PM]: No client config detected."}
+{"level":"INFO","message":"[4:05:25.309 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:05:25.310 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:05:25.310 PM]: Connection[id: 9f277c4e-e139-497d-931d-2c6b7c061cb8] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:26.135 PM]: Connection[id: 9f277c4e-e139-497d-931d-2c6b7c061cb8] - connection established successfully after 831.76 milliseconds"}
+{"level":"INFO","message":"[4:06:38.107 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:06:38.115 PM]: Creating Connection[id: 7afdd799-3089-4bdf-9cbe-5f6f0fd25d7b] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[4:06:38.115 PM]: Connection[id: 7afdd799-3089-4bdf-9cbe-5f6f0fd25d7b] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:06:38.116 PM]: Connection[id: 7afdd799-3089-4bdf-9cbe-5f6f0fd25d7b] - connection object created successfully."}
+{"level":"INFO","message":"[4:06:38.116 PM]: Connection[id: 7afdd799-3089-4bdf-9cbe-5f6f0fd25d7b] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:06:38.116 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:06:38.122 PM]: No client config detected."}
+{"level":"INFO","message":"[4:06:38.122 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:06:38.123 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:06:38.123 PM]: Connection[id: 7afdd799-3089-4bdf-9cbe-5f6f0fd25d7b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:06:39.031 PM]: Connection[id: 7afdd799-3089-4bdf-9cbe-5f6f0fd25d7b] - connection established successfully after 914.7 milliseconds"}
+{"level":"INFO","message":"[5:27:49.214 PM]: Creating new connection object"}
+{"level":"INFO","message":"[5:27:49.222 PM]: Creating Connection[id: f7a98299-0c0a-43bb-93e6-e6abac044152] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[5:27:49.223 PM]: Connection[id: f7a98299-0c0a-43bb-93e6-e6abac044152] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[5:27:49.223 PM]: Connection[id: f7a98299-0c0a-43bb-93e6-e6abac044152] - connection object created successfully."}
+{"level":"INFO","message":"[5:27:49.223 PM]: Connection[id: f7a98299-0c0a-43bb-93e6-e6abac044152] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[5:27:49.224 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:27:49.229 PM]: No client config detected."}
+{"level":"INFO","message":"[5:27:49.230 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[5:27:49.230 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:27:49.230 PM]: Connection[id: f7a98299-0c0a-43bb-93e6-e6abac044152] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[5:27:50.210 PM]: Connection[id: f7a98299-0c0a-43bb-93e6-e6abac044152] - connection established successfully after 986.39 milliseconds"}
+{"level":"INFO","message":"[5:36:08.662 PM]: Creating new connection object"}
+{"level":"INFO","message":"[5:36:08.670 PM]: Creating Connection[id: 2c79f9ca-00c7-4bd0-95b2-64b7f8b7bc23] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[5:36:08.670 PM]: Connection[id: 2c79f9ca-00c7-4bd0-95b2-64b7f8b7bc23] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[5:36:08.670 PM]: Connection[id: 2c79f9ca-00c7-4bd0-95b2-64b7f8b7bc23] - connection object created successfully."}
+{"level":"INFO","message":"[5:36:08.671 PM]: Connection[id: 2c79f9ca-00c7-4bd0-95b2-64b7f8b7bc23] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[5:36:08.671 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:36:08.676 PM]: No client config detected."}
+{"level":"INFO","message":"[5:36:08.676 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[5:36:08.676 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:36:08.677 PM]: Connection[id: 2c79f9ca-00c7-4bd0-95b2-64b7f8b7bc23] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[5:36:09.482 PM]: Connection[id: 2c79f9ca-00c7-4bd0-95b2-64b7f8b7bc23] - connection established successfully after 811.74 milliseconds"}
+{"level":"INFO","message":"[5:37:07.512 PM]: Creating new connection object"}
+{"level":"INFO","message":"[5:37:07.520 PM]: Creating Connection[id: 17258c91-06ec-4dc4-8e16-217c2b6854bc] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[5:37:07.520 PM]: Connection[id: 17258c91-06ec-4dc4-8e16-217c2b6854bc] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[5:37:07.521 PM]: Connection[id: 17258c91-06ec-4dc4-8e16-217c2b6854bc] - connection object created successfully."}
+{"level":"INFO","message":"[5:37:07.521 PM]: Connection[id: 17258c91-06ec-4dc4-8e16-217c2b6854bc] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[5:37:07.521 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:37:07.527 PM]: No client config detected."}
+{"level":"INFO","message":"[5:37:07.527 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[5:37:07.527 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:37:07.528 PM]: Connection[id: 17258c91-06ec-4dc4-8e16-217c2b6854bc] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[5:37:08.330 PM]: Connection[id: 17258c91-06ec-4dc4-8e16-217c2b6854bc] - connection established successfully after 809.38 milliseconds"}
+{"level":"INFO","message":"[5:37:25.254 PM]: Creating new connection object"}
+{"level":"INFO","message":"[5:37:25.262 PM]: Creating Connection[id: e060723b-8c9c-4c28-befe-ef5bf7493096] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[5:37:25.263 PM]: Connection[id: e060723b-8c9c-4c28-befe-ef5bf7493096] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[5:37:25.263 PM]: Connection[id: e060723b-8c9c-4c28-befe-ef5bf7493096] - connection object created successfully."}
+{"level":"INFO","message":"[5:37:25.264 PM]: Connection[id: e060723b-8c9c-4c28-befe-ef5bf7493096] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[5:37:25.264 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:37:25.270 PM]: No client config detected."}
+{"level":"INFO","message":"[5:37:25.270 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[5:37:25.270 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:37:25.271 PM]: Connection[id: e060723b-8c9c-4c28-befe-ef5bf7493096] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[5:37:26.130 PM]: Connection[id: e060723b-8c9c-4c28-befe-ef5bf7493096] - connection established successfully after 866.06 milliseconds"}
+{"level":"ERROR","message":"[11:39:31.200 PM]: Error issuing heartbeat call: getaddrinfo ENOTFOUND hw23989.west-us-2.azure.snowflakecomputing.com"}
+{"level":"INFO","message":"[11:53:49.722 PM]: Creating new connection object"}
+{"level":"INFO","message":"[11:53:49.804 PM]: Creating Connection[id: ad595865-d662-4855-9f39-d09734ff808f] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[11:53:49.804 PM]: Connection[id: ad595865-d662-4855-9f39-d09734ff808f] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[11:53:49.804 PM]: Connection[id: ad595865-d662-4855-9f39-d09734ff808f] - connection object created successfully."}
+{"level":"INFO","message":"[11:53:49.805 PM]: Connection[id: ad595865-d662-4855-9f39-d09734ff808f] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[11:53:49.805 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[11:53:49.816 PM]: No client config detected."}
+{"level":"INFO","message":"[11:53:49.817 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[11:53:49.817 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[11:53:49.817 PM]: Connection[id: ad595865-d662-4855-9f39-d09734ff808f] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[11:53:50.865 PM]: Connection[id: ad595865-d662-4855-9f39-d09734ff808f] - connection established successfully after 1060.28 milliseconds"}
+{"level":"INFO","message":"[11:54:40.633 PM]: Creating new connection object"}
+{"level":"INFO","message":"[11:54:40.641 PM]: Creating Connection[id: d057c9a8-7504-4db8-b851-151d9e43743f] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[11:54:40.641 PM]: Connection[id: d057c9a8-7504-4db8-b851-151d9e43743f] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[11:54:40.641 PM]: Connection[id: d057c9a8-7504-4db8-b851-151d9e43743f] - connection object created successfully."}
+{"level":"INFO","message":"[11:54:40.642 PM]: Connection[id: d057c9a8-7504-4db8-b851-151d9e43743f] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[11:54:40.642 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[11:54:40.648 PM]: No client config detected."}
+{"level":"INFO","message":"[11:54:40.649 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[11:54:40.649 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[11:54:40.649 PM]: Connection[id: d057c9a8-7504-4db8-b851-151d9e43743f] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[11:54:41.492 PM]: Connection[id: d057c9a8-7504-4db8-b851-151d9e43743f] - connection established successfully after 849.81 milliseconds"}
+{"level":"INFO","message":"[11:56:08.358 PM]: Creating new connection object"}
+{"level":"INFO","message":"[11:56:08.365 PM]: Creating Connection[id: 4946c36d-2c1b-4d07-8be0-61794e0c3ebe] with host: hw23989.west-us-2.azure.snowflakecomputing.com, account: hw23989, accessUrl: https://hw23989.west-us-2.azure.snowflakecomputing.com, user: Gama_App, role: DM_MVP_GAMIFICACION, database: GAMIFICACION_MVP_DB, schema: GAMIFICACION_DEV, warehouse: GAMIFICACION_MVP_WH, proxy was not configured, password is provided, region: west-us-2.azure, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.26100"}
+{"level":"INFO","message":"[11:56:08.366 PM]: Connection[id: 4946c36d-2c1b-4d07-8be0-61794e0c3ebe] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.4.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[11:56:08.366 PM]: Connection[id: 4946c36d-2c1b-4d07-8be0-61794e0c3ebe] - connection object created successfully."}
+{"level":"INFO","message":"[11:56:08.366 PM]: Connection[id: 4946c36d-2c1b-4d07-8be0-61794e0c3ebe] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[11:56:08.367 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[11:56:08.372 PM]: No client config detected."}
+{"level":"INFO","message":"[11:56:08.373 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[11:56:08.373 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[11:56:08.373 PM]: Connection[id: 4946c36d-2c1b-4d07-8be0-61794e0c3ebe] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[11:56:09.127 PM]: Connection[id: 4946c36d-2c1b-4d07-8be0-61794e0c3ebe] - connection established successfully after 761.21 milliseconds"}
+{"level":"ERROR","message":"[1:27:24.041 AM]: Error issuing heartbeat call: getaddrinfo ENOTFOUND hw23989.west-us-2.azure.snowflakecomputing.com"}
+{"level":"ERROR","message":"[4:06:52.092 AM]: Error issuing heartbeat call: getaddrinfo ENOTFOUND hw23989.west-us-2.azure.snowflakecomputing.com"}

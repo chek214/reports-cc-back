@@ -86,7 +86,7 @@ const newUsers = async (req, res) => {
 
         const qres = await q(query)
 
-        return resp(res, 200, {qres}, 'Success')
+        return resp(res, 200, qres, 'Success')
 
     } catch(error){
         console.log(error.stack)

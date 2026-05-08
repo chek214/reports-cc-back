@@ -82,7 +82,7 @@ const newUsers = async (req, res) => {
             ON gu.ID_USER = uo.ID_USER
         WHERE (gu.CREATED_AT >= '${startDate}' AND gu.CREATED_AT <= ${endDate === '' ? 'current_date' : `'${endDate}'`})
             AND uo.ID_ORGANIZATION = '${organizationId}'
-        ORDER BY gu.CREATED_AT;`
+        ORDER BY gu.CREATED_AT DESC;`
 
         const qres = await q(query)
 
